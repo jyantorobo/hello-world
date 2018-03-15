@@ -1,6 +1,6 @@
 # hello-world
 Pasos iniciales de autoinducción
-Siguiendo turorial "hello-world"
+Siguiendo tutorial "hello-world", escuchando Brazilian Girls
 
 By: Alonso Cabezas
 @jyantorobo
